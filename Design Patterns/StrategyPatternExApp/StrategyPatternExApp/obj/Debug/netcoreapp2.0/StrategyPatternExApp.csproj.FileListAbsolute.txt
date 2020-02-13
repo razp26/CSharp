@@ -1,0 +1,22 @@
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.csprojAssemblyReference.cache
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.csproj.CoreCompileInputs.cache
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.AssemblyInfoInputs.cache
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.AssemblyInfo.cs
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.deps.json
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.runtimeconfig.json
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.runtimeconfig.dev.json
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.dll
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.pdb
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.dll
+C:\Users\rzea\source\repos\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.pdb
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.deps.json
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.runtimeconfig.json
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.runtimeconfig.dev.json
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.dll
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\bin\Debug\netcoreapp2.0\StrategyPatternExApp.pdb
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.csprojAssemblyReference.cache
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.csproj.CoreCompileInputs.cache
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.AssemblyInfoInputs.cache
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.AssemblyInfo.cs
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.dll
+C:\Proyects\Github\C#\Design Patterns\StrategyPatternExApp\StrategyPatternExApp\obj\Debug\netcoreapp2.0\StrategyPatternExApp.pdb

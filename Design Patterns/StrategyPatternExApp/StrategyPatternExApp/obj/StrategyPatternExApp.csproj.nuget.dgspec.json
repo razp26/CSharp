@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyects\\Github\\C#\\Design Patterns\\StrategyPatternExApp\\StrategyPatternExApp\\StrategyPatternExApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyects\\Github\\C#\\Design Patterns\\StrategyPatternExApp\\StrategyPatternExApp\\StrategyPatternExApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyects\\Github\\C#\\Design Patterns\\StrategyPatternExApp\\StrategyPatternExApp\\StrategyPatternExApp.csproj",
+        "projectName": "StrategyPatternExApp",
+        "projectPath": "C:\\Proyects\\Github\\C#\\Design Patterns\\StrategyPatternExApp\\StrategyPatternExApp\\StrategyPatternExApp.csproj",
+        "packagesPath": "C:\\Users\\Chofo\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyects\\Github\\C#\\Design Patterns\\StrategyPatternExApp\\StrategyPatternExApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chofo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
