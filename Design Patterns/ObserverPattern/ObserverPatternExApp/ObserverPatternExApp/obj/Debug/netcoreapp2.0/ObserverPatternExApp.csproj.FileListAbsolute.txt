@@ -1,0 +1,22 @@
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.deps.json
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.runtimeconfig.json
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.runtimeconfig.dev.json
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.dll
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.pdb
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.csprojAssemblyReference.cache
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.csproj.CoreCompileInputs.cache
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.AssemblyInfoInputs.cache
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.AssemblyInfo.cs
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.dll
+C:\Users\rzea\source\repos\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.pdb
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.deps.json
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.runtimeconfig.json
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.runtimeconfig.dev.json
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\bin\Debug\netcoreapp2.0\ObserverPatternExApp.pdb
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.csprojAssemblyReference.cache
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.csproj.CoreCompileInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.AssemblyInfoInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.AssemblyInfo.cs
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\ObserverPattern\ObserverPatternExApp\ObserverPatternExApp\obj\Debug\netcoreapp2.0\ObserverPatternExApp.pdb
