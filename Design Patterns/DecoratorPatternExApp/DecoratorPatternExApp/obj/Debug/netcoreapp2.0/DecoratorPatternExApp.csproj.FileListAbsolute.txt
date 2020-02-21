@@ -1,0 +1,22 @@
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.deps.json
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.runtimeconfig.json
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.runtimeconfig.dev.json
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.dll
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.pdb
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.csprojAssemblyReference.cache
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.csproj.CoreCompileInputs.cache
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.AssemblyInfoInputs.cache
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.AssemblyInfo.cs
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.dll
+c:\users\rzea\source\repos\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.pdb
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.deps.json
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.runtimeconfig.json
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.runtimeconfig.dev.json
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\bin\Debug\netcoreapp2.0\DecoratorPatternExApp.pdb
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.csprojAssemblyReference.cache
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.csproj.CoreCompileInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.AssemblyInfoInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.AssemblyInfo.cs
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\DecoratorPatternExApp\DecoratorPatternExApp\obj\Debug\netcoreapp2.0\DecoratorPatternExApp.pdb
