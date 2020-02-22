@@ -1,0 +1,22 @@
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.deps.json
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.runtimeconfig.json
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.runtimeconfig.dev.json
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.dll
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.pdb
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.csprojAssemblyReference.cache
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.csproj.CoreCompileInputs.cache
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.AssemblyInfoInputs.cache
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.AssemblyInfo.cs
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.dll
+c:\users\rzea\source\repos\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.pdb
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.deps.json
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.runtimeconfig.json
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.runtimeconfig.dev.json
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\bin\Debug\netcoreapp2.0\FactoryPatternExApp.pdb
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.csprojAssemblyReference.cache
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.csproj.CoreCompileInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.AssemblyInfoInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.AssemblyInfo.cs
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\FactoryPatternExApp\FactoryPatternExApp\obj\Debug\netcoreapp2.0\FactoryPatternExApp.pdb
