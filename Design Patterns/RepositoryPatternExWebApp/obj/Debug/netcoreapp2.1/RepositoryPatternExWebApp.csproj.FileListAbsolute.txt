@@ -1,0 +1,14 @@
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\bin\Debug\netcoreapp2.1\RepositoryPatternExWebApp.deps.json
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\bin\Debug\netcoreapp2.1\RepositoryPatternExWebApp.runtimeconfig.json
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\bin\Debug\netcoreapp2.1\RepositoryPatternExWebApp.runtimeconfig.dev.json
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\bin\Debug\netcoreapp2.1\RepositoryPatternExWebApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\bin\Debug\netcoreapp2.1\RepositoryPatternExWebApp.pdb
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.csprojAssemblyReference.cache
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.csproj.CoreCompileInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.RazorAssemblyInfo.cache
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.RazorAssemblyInfo.cs
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.AssemblyInfoInputs.cache
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.AssemblyInfo.cs
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.RazorTargetAssemblyInfo.cache
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.dll
+C:\Proyects\Github\CSharp\Design Patterns\RepositoryPatternExWebApp\obj\Debug\netcoreapp2.1\RepositoryPatternExWebApp.pdb
